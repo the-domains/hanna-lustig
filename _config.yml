@@ -1,0 +1,28 @@
+name: Hanna Lustig
+favicon: null
+layout_spectrum: 0.08028046227991581
+typography_spectrum: 0.4219550273846835
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8039173160213977
+  lightness: 0.6007858109660447
+  saturation: 0.3621338892262429
+  rhythmicContrast: 0.2174214560072869
+purpose: []
